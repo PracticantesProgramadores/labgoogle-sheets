@@ -1,1 +1,2 @@
-# labgoogle-sheets
+# logiclab
+Laboratorio interactivo de lógica digital.
